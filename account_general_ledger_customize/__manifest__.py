@@ -15,7 +15,7 @@
     ],
     'demo': [],
     'qweb': [],
-    'images': ['static/description/icon.png'],
+    'images': ['static/description/banner.png'],
     'intallable': True,
     'application': True,
     'auto_install': False,
